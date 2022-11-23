@@ -1,0 +1,15 @@
+@media (min-width: 650px) {
+
+    main{
+        max-width: 76.5rem;
+        padding:0rem;
+    }
+    h1{
+        font-size: 2rem;
+    }
+
+    .historia{
+        padding-block: 2rem;
+
+    }
+}

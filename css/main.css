@@ -1,0 +1,28 @@
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 4rem;
+    margin-bottom: 4rem;
+ }
+
+.historia img{
+    width: 26rem;
+}
+
+.cultura img{
+    width: 26rem;
+}
+
+.informações  img{
+    width: 26rem;
+}
+
+.politica img{
+    width: 26rem;
+}
+
+.historia{
+    padding-right:2rem ;
+
+}
